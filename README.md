@@ -3,7 +3,7 @@
 ## Testing Results and Notes
 The code was tested and compared against the published results as per the document attached in the modele 5 challenge assignment.
 
-The results matched the expectrations.
+The results matched the expectations.
 
 1) import of two CSV files - one for 2020 and another for 2021
 2) inspect each dataframes, column properties, and presence of null values
